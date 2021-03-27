@@ -1,0 +1,186 @@
+1,1,September 6,Sunny,78,Philadelphia Eagles
+1,1,September 6,Sunny,22,Atlanta Falcons
+2,2,September 9,Fog,79,Tampa Bay Buccaneers
+2,2,September 9,Fog,21,New Orleans Saints
+3,3,September 9,snow,38,Minnesota Vikings
+3,3,September 9,snow,62,San Francisco 49ers
+4,4,September 9,Sunny,45,Miami Dolphins
+4,4,September 9,Sunny,55,Tennessee Titans
+5,5,September 9,rain,58,Jacksonville Jaguars
+5,5,September 9,rain,42,New York Giants
+6,6,September 9,Sunny,99,Pittsburgh Steelers
+6,6,September 9,Sunny,1,Cleveland Browns
+7,7,September 9,rain,3,New England Patriots
+7,7,September 9,rain,97,Houston Texans
+8,8,September 9,snow,91,Cincinnati Bengals
+8,8,September 9,snow,9,Indianapolis Colts
+9,9,September 9,Fog,7,Baltimore Ravens
+9,9,September 9,Fog,93,Buffalo Bills
+10,10,September 9,snow,15,Kansas City Chiefs
+10,10,September 9,snow,85,Los Angeles Chargers
+11,11,September 9,sleet,19,Carolina Panthers
+11,11,September 9,sleet,81,Dallas Cowboys
+12,12,September 9,Fog,8,Washington Redskins
+12,12,September 9,Fog,92,Arizona Cardinals
+13,13,September 9,Fog,93,Denver Broncos
+13,13,September 9,Fog,7,Seattle Seahawks
+14,14,September 9,rain,98,Green Bay Packers
+14,14,September 9,rain,2,Chicago Bears
+15,15,September 10,rain,0,New York Jets
+15,15,September 10,rain,100,Detroit Lions
+16,16,September 10,Sunny,79,Los Angeles Rams
+16,16,September 10,Sunny,21,Oakland Raiders
+17,17,September 13,rain,4,Cincinnati Bengals
+17,17,September 13,rain,96,Baltimore Ravens
+18,18,September 16,Fog,72,Minnesota Vikings
+18,18,September 16,Fog,28,Green Bay Packers
+19,19,September 16,Sunny,11,Tampa Bay Buccaneers
+19,19,September 16,Sunny,89,Philadelphia Eagles
+20,20,September 16,snow,34,Atlanta Falcons
+20,20,September 16,snow,66,Carolina Panthers
+21,21,September 16,snow,100,Kansas City Chiefs
+21,21,September 16,snow,0,Pittsburgh Steelers
+22,22,September 16,Fog,94,Miami Dolphins
+22,22,September 16,Fog,6,New York Jets
+23,23,September 16,Fog,78,New Orleans Saints
+23,23,September 16,Fog,22,Cleveland Browns
+24,24,September 16,Sunny,80,Tennessee Titans
+24,24,September 16,Sunny,20,Houston Texans
+25,25,September 16,sleet,67,Indianapolis Colts
+25,25,September 16,sleet,33,Washington Redskins
+26,26,September 16,rain,90,Los Angeles Chargers
+26,26,September 16,rain,10,Buffalo Bills
+27,27,September 16,rain,91,San Francisco 49ers
+27,27,September 16,rain,9,Detroit Lions
+28,28,September 16,rain,60,Los Angeles Rams
+28,28,September 16,rain,40,Arizona Cardinals
+29,29,September 16,Fog,92,Jacksonville Jaguars
+29,29,September 16,Fog,8,New England Patriots
+30,30,September 16,sleet,96,Denver Broncos
+30,30,September 16,sleet,4,Oakland Raiders
+31,31,September 16,Sunny,3,Dallas Cowboys
+31,31,September 16,Sunny,97,New York Giants
+32,32,September 17,sleet,84,Chicago Bears
+32,32,September 17,sleet,16,Seattle Seahawks
+33,33,September 20,Fog,86,Cleveland Browns
+33,33,September 20,Fog,14,New York Jets
+34,34,September 23,sleet,13,New York Giants
+34,34,September 23,sleet,87,Houston Texans
+35,35,September 23,sleet,32,Baltimore Ravens
+35,35,September 23,sleet,68,Denver Broncos
+36,36,September 23,rain,9,Philadelphia Eagles
+36,36,September 23,rain,91,Indianapolis Colts
+37,37,September 23,sleet,25,Buffalo Bills
+37,37,September 23,sleet,75,Minnesota Vikings
+38,38,September 23,rain,0,Washington Redskins
+38,38,September 23,rain,100,Green Bay Packers
+39,39,September 23,sleet,76,Carolina Panthers
+39,39,September 23,sleet,24,Cincinnati Bengals
+40,40,September 23,sleet,7,New Orleans Saints
+40,40,September 23,sleet,93,Atlanta Falcons
+41,41,September 23,rain,95,Kansas City Chiefs
+41,41,September 23,rain,5,San Francisco ers
+42,42,September 23,sleet,93,Miami Dolphins
+42,42,September 23,sleet,7,Oakland Raiders
+43,43,September 23,rain,99,Tennessee Titans
+43,43,September 23,rain,1,Jacksonville Jaguars
+44,44,September 23,Sunny,38,Los Angeles Rams
+44,44,September 23,Sunny,62,Los Angeles Chargers
+45,45,September 23,sleet,75,Seattle Seahawks
+45,45,September 23,sleet,25,Dallas Cowboys
+46,46,September 23,Sunny,20,Chicago Bears
+46,46,September 23,Sunny,80,Arizona Cardinals
+47,47,September 23,Sunny,23,Detroit Lions
+47,47,September 23,Sunny,77,New England Patriots
+48,48,September 24,snow,43,Pittsburgh Steelers
+48,48,September 24,snow,57,Tampa Bay Buccaneers
+49,49,September 27,rain,63,Los Angeles Rams
+49,49,September 27,rain,37,Minnesota Vikings
+50,50,September 30,sleet,80,New England Patriots
+50,50,September 30,sleet,20,Miami Dolphins
+51,51,September 30,snow,78,Jacksonville Jaguars
+51,51,September 30,snow,22,New York Jets
+52,52,September 30,Fog,93,Houston Texans
+52,52,September 30,Fog,7,Indianapolis Colts
+53,53,September 30,Fog,34,Green Bay Packers
+53,53,September 30,Fog,66,Buffalo Bills
+54,54,September 30,sleet,95,Dallas Cowboys
+54,54,September 30,sleet,5,Detroit Lions
+55,55,September 30,Sunny,8,Chicago Bears
+55,55,September 30,Sunny,92,Tampa Bay Buccaneers
+56,56,September 30,rain,3,Tennessee Titans
+56,56,September 30,rain,97,Philadelphia Eagles
+57,57,September 30,Sunny,66,Cincinnati Bengals
+57,57,September 30,Sunny,34,Atlanta Falcons
+58,58,September 30,Fog,76,Oakland Raiders
+58,58,September 30,Fog,24,Cleveland Browns
+59,59,September 30,rain,84,Seattle Seahawks
+59,59,September 30,rain,16,Arizona Cardinal
+60,60,September 30,Fog,58,New Orleans Saints
+60,60,September 30,Fog,42,New York Giants
+61,61,September 30,Sunny,78,Los Angeles Chargers
+61,61,September 30,Sunny,22,San Francisco 69ers
+62,62,September 30,sleet,71,Baltimore Ravens
+62,62,September 30,sleet,29,Pittsburgh Steelers
+63,63,October 1,Sunny,48,Kansas City Chiefs
+63,63,October 1,Sunny,52,Denver Broncos
+64,64,October 4,snow,17,New England Patriots
+64,64,October 4,snow,83,Indianapolis Colts
+65,65,October 7,Sunny,15,Carolina Panthers
+65,65,October 7,Sunny,85,New York Giants
+66,66,October 7,rain,68,Detroit Lions
+66,66,October 7,rain,32,Green Bay Packers
+67,67,October 7,Sunny,59,Cincinnati Bengals
+67,67,October 7,Sunny,41,Miami Dolphins
+68,68,October 7,Sunny,91,Pittsburgh Steelers
+68,68,October 7,Sunny,9,Atlanta Falcons
+69,69,October 7,sleet,14,Kansas City Chiefs
+69,69,October 7,sleet,86,Jacksonville Jaguars
+70,70,October 7,snow,1,Cleveland Browns
+70,70,October 7,snow,99,Baltimore Ravens
+71,71,October 7,Sunny,85,New York Jets
+71,71,October 7,Sunny,15,Denver Broncos
+72,72,October 7,sleet,25,Buffalo Bills
+72,72,October 7,sleet,75,Tennessee Titans
+73,73,October 7,snow,61,Los Angeles Chargers
+73,73,October 7,snow,39,Oakland Raiders
+74,74,October 7,Sunny,58,Arizona Cardinals
+74,74,October 7,Sunny,42,San Francisco ers
+75,75,October 7,Fog,93,Los Angeles Rams
+75,75,October 7,Fog,7,Seattle Seahawks
+76,76,October 7,snow,46,Minnesota Vikings
+76,76,October 7,snow,54,Philadelphia Eagles
+77,77,October 7,Fog,23,Houston Texans
+77,77,October 7,Fog,77,Dallas Cowboys
+78,78,October 8,sleet,93,New Orleans Saints
+78,78,October 8,sleet,7,Washington Redskins
+79,79,October 11,snow,53,Philadelphia Eagles
+79,79,October 11,snow,47,New York Giants
+80,80,October 14,Fog,56,Miami Dolphins
+80,80,October 14,Fog,44,Chicago Bears
+81,81,October 14,Fog,11,Washington Redskins
+81,81,October 14,Fog,89,Carolina Panthers
+82,82,October 14,snow,4,New York Jets
+82,82,October 14,snow,96,Indianapolis Colts
+83,83,October 14,snow,62,Houston Texans
+83,83,October 14,snow,38,Buffalo Bills
+84,84,October 14,snow,56,Seattle Seahawks
+84,84,October 14,snow,44,Oakland Raiders
+85,85,October 14,sleet,64,Pittsburgh Steelers
+85,85,October 14,sleet,36,Cincinnati Bengals
+86,86,October 14,snow,88,Minnesota Vikings
+86,86,October 14,snow,12,Arizona Cardinals
+87,87,October 14,sleet,28,Atlanta Falcons
+87,87,October 14,sleet,72,Tampa Bay Buccaneers
+88,88,October 14,Fog,98,Los Angeles Chargers
+88,88,October 14,Fog,2,Cleveland Browns
+89,89,October 14,snow,9,Los Angeles Rams
+89,89,October 14,snow,91,Denver Broncos
+90,90,October 14,sleet,1,Baltimore Ravens
+90,90,October 14,sleet,99,Tennessee Titans
+91,91,October 14,Fog,42,Dallas Cowboys
+91,91,October 14,Fog,58,Jacksonville Jaguars
+92,92,October 14,sleet,27,New England Patriots
+92,92,October 14,sleet,73,Kansas City Chiefs
+93,93,October 15,Fog,79,Green Bay Packers
+93,93,October 15,Fog,21,San Francisco ers

@@ -1,0 +1,165 @@
+Arrowhead Stadium,Kansas City Chiefs,Kansas City,163011,40710,1972
+AT&T Stadium,Dallas Cowboys,Arlington,656127,70213,2009
+Azteca Stadium,Azteca Stadium,Mexico City,598351,75346,2005
+Bank of America Stadium,Carolina Panthers,Charlotte,226417,39664,1996
+CenturyLink Field,Seattle Seahawks,Seattle,537201,49615,2002
+Edward Jones Dome,St. Louis Rams,St. Louis,344415,67055,1995
+EverBank Field,Jacksonville Jaguars,Jacksonville,135162,58861,1995
+FedExField,Washington Redskins,Landover,163102,74767,1997
+FirstEnergy Stadium,Cleveland Browns,Cleveland,526403,35401,1999
+Ford Field,Detroit Lions,Detroit,638053,72717,2002
+Gillette Stadium,New England Patriots,Foxborough,275260,31728,2002
+Hard Rock Stadium,Miami Dolphins,Miami Gardens,662057,45737,1987
+Heinz Field,Pittsburgh Steelers,Pittsburgh,310340,71746,2001
+Lincoln Financial,Philadelphia Eagles,Philadelphia,195416,76090,2003
+Los Angeles Memorial Coliseum,Los Angeles Dons ,Los Angeles,138225,37694,1946
+Lucas Oil Stadium,Indianapolis Colts,Indianapolis,382435,54226,2008
+M&T Bank Stadium,Baltimore Ravens,Baltimore,656563,70259,1998
+Mercedes-Benz Stadium,Atlanta Falcons,Atlanta,205456,56550,2017
+Mercedes-Benz Superdome,New Orleans Saints,New Orleans,418194,79948,1975
+MetLife Stadium,New York Giants,East Rutherford,567342,70516,2010
+New Era Field,Buffalo Bills,Orchard Park,209451,61083,1973
+Nissan Stadium,Tennessee Titans,Nashville,283058,62513,1999
+NRG Stadium,Houston Texans,Houston,671961,59890,2002
+Oakland Coliseum,Oakland Raiders,Oakland,652965,49936,1966
+Paul Brown Stadium,Cincinnati Bengals,Cincinnati,140303,78085,2000
+Qualcomm Stadium,San Diego Chargers,San Diego,292062,37062,1967
+Raymond James Stadium,Tampa Bay Buccaneers,Tampa,122672,55112,1998
+Soldier Field,Chicago Hornets,Chicago,632166,76212,1926
+Sports Authority Field at Mile High,Denver Broncos,Denver,426485,72276,2001
+StubHub Center,Los Angeles Chargers,Carson,469969,56158,2017
+Tottenham Stadium,Philadelphia Eagles,London,433917,47632,2019
+Twickenham Stadium,Miami Dolphins,Twickenham,133806,43034,2016
+U.S. Bank Stadium,Minnesota Vikings,Minneapolis,478931,73986,2016
+University of Phoenix Stadium,Arizona Cardinals,Glendale,285474,55096,2006
+Wembley Stadium,Oakland Raiders,London,467857,43566,2007
+Georgia Dome,Atlanta Falcons,Atlanta,260742,41604,1992
+TCF Bank Stadium,Minnesota Vikings,Minneapolis,219718,52046,2010
+Candlestick Park,Oakland Raiders,San Francisco,583292,57840,1960
+Mall of America Field,Minnesota Vikings,Minneapolis,680469,31448,1982
+Rogers Centre,Azteca Stadium,Toronto,461586,32776,2008
+Giants Stadium,New York Giants,East Rutherford,386953,76184,1976
+Texas Stadium,Dallas Cowboys,Irving,496733,63323,1971
+RCA Dome,Indianapolis Colts,Indianapolis,121839,48952,1984
+Alamo Dome,Washington Redskins,San Antonio,291731,39172,2005
+Sun Devil Stadium,Phoenix Cardinals,Tempe,409975,33615,1988
+Tiger Stadium (LSU),New Orleans Saints,Baton Rouge,558522,55328,2005
+Memorial Stadium (Champaign),Chicago Bears,Champaign,359504,40214,2002
+Veterans Stadium,Philadelphia Eagles,Philadelphia,469075,55101,1971
+Foxboro Stadium,New England Patriots,Foxborough,147817,63303,1971
+Husky Stadium,Seattle Seahawks,Seattle,190309,65044,1994
+Pontiac Silverdome,Detroit Lions,Pontiac,192781,48516,1975
+Mile High Stadium,Denver Broncos,Denver,179934,34647,1960
+Three Rivers Stadium,Pittsburgh Steelers,Pittsburgh,533915,33848,1970
+Cinergy Field,Cincinnati Bengals,Cincinnati,101354,77896,1970
+Seattle Kingdome,Seattle Seahawks,Seattle,576089,51522,1976
+Vanderbilt Stadium,Tennessee Oilers,Nashville,340609,30778,1998
+Houlihans Stadium,Tampa Bay Buccaneers,Tampa,120010,53515,1969
+Liberty Bowl Memorial Stadium,Tennessee Oilers,Memphis,476835,38759,1997
+Memorial Stadium (Baltimore),Baltimore Colts,Baltimore,319188,58818,1946
+Houston Astrodome,Houston Oilers,Houston,470069,70811,1968
+RFK Memorial Stadium,Washington Redskins,Washington,262241,63341,1961
+Busch Memorial Stadium,St. Louis Cardinals,St. Louis,386272,72155,1966
+Cleveland Municipal Stadium,Cleveland Indians,Cleveland,482355,53974,1931
+Memorial Stadium (Clemson),Carolina Panthers,Clemson,379224,66105,1995
+Anaheim Stadium,Los Angeles Rams,Anaheim,642371,76827,1980
+Milwaukee County Stadium,Green Bay Packers,Milwaukee,392528,46523,1953
+Rose Bowl,Seattle Seahawks,Pasadena,134409,75850,1976
+Atlanta-Fulton County Stadium,Atlanta Falcons,Atlanta,632261,66327,1966
+Stanford Stadium,St. Louis Cardinals,Stanford,567126,42175,1984
+Orange Bowl,Miami Seahawks,Miami,291837,74187,1946
+Shea Stadium,New York Jets,New York,491608,46380,1964
+Metropolitan Stadium,Minnesota Vikings,Bloomington,685500,31130,1959
+Tiger Stadium,Detroit Panthers,Detroit,638626,65550,1925
+Tulane Stadium,New Orleans Saints,New Orleans,265359,51093,1938
+Yale Bowl,New York Giants,New Haven,405348,64565,1973
+California Memorial Stadium,Akron Pros,Berkeley,359251,54621,1973
+Rice Stadium,Houston Oilers,Houston,138852,46342,1965
+Yankee Stadium,New York Yankees,New York,672706,52953,1927
+War Memorial Stadium,Buffalo Bills ,Buffalo,516649,48877,1938
+Cotton Bowl,Dallas Texans,Dallas,248135,40432,1952
+Kansas City Municipal Stadium,Kansas City Chiefs,Kansas City,621145,37919,1963
+Dyche Stadium,Miami Seahawks,Evanston,667919,66861,1970
+Franklin Field,Philadelphia Eagles,Philadelphia,545399,72836,1958
+Harvard Stadium,Boston Patriots,Boston,425332,37793,1970
+Kezar Stadium,San Francisco 49ers,San Francisco,551681,59820,1946
+Wrigley Field,Chicago Bears,Chicago,168364,50006,1920
+Alumni Stadium,Boston Patriots,Chestnut Hill,132314,50956,1963
+Grant Field,Houston Oilers,Atlanta,546238,61416,1969
+Memorial Stadium (Minnesota),Minnesota Vikings,Minneapolis,193913,49890,1969
+Nippert Stadium,Cincinnati Bengals,Cincinnati,257014,69581,1968
+Pitt Stadium,Pittsburgh Steelers,Pittsburgh,601598,44808,1958
+Fenway Park,Boston Redskins,Boston,406988,30567,1933
+Legion Field,Baltimore Ravens,Birmingham,678931,57322,1968
+Balboa Stadium,San Diego Chargers,San Diego,248583,40477,1961
+Busch Stadium (Sportsmans Park),St. Louis All-Stars ,St. Louis,362245,71410,1923
+Frank Youell Field,Oakland Raiders,Oakland,163326,75172,1962
+Jeppesen Stadium,Houston Oilers,Houston,554719,40085,1960
+Forbes Field,Chi/Pit Cards/Steelers,Pittsburgh,599984,39882,1933
+Polo Grounds,New York Giants,New York,215993,58680,1925
+Braves Field,Boston Bulldogs,Boston,165269,69291,1925
+Griffith Stadium,Washington Redskins,Washington,457277,42710,1937
+Comiskey Park,Chicago Cardinals,Chicago,595585,40366,1922
+Shibe Park,Philadelphia Eagles,Philadelphia,189857,55186,1925
+City Stadium,Green Bay Packers,Green Bay,513062,64853,1925
+Marquette Stadium,New England Patriots,Milwaukee,296569,42919,1952
+Rubber Bowl,Baltimore Colts ,Akron,287721,65573,1941
+Wisconsin State Fair Park,New York Giants ,West Allis,261236,63892,1934
+Philadelphia Municipal Stadium,Philadelphia Eagles,Philadelphia,589872,60954,1931
+Ebbets Field,Brooklyn Lions ,New York,500275,68067,1926
+League Park,Cleveland Bulldogs ,Cleveland,122938,35107,1923
+Erie Stadium,St. Louis All-Stars ,Erie,693552,32164,1938
+Broadmoor Stadium,Tennessee Titans,Colorado Springs,176692,56607,1939
+University of Detroit Stadium,Detroit Wolverines,Detroit,408312,44875,1928
+Laidley Field,Seattle Seahawks,Charleston,234432,77727,1938
+Shaw Stadium,Cleveland Rams,East Cleveland,250389,42730,1938
+Point Stadium,Dallas Cowboys,Johnstown,304945,47273,1936
+Baker Bowl,Frankford Yellow Jackets,Philadelphia,261092,58435,1931
+Temple Stadium,Philadelphia Eagles,Philadelphia,331164,54432,1934
+Corcoran Field,Cincinnati Reds,Cincinnati,306119,62841,1934
+Crosley Field,Cincinnati Reds,Cincinnati,352214,38039,1931
+Triangle Park,Dayton Triangles,Dayton,174488,58954,1922
+Universal Stadium,Portsmouth Spartans,Portsmouth,664101,45568,1930
+Borchert Field,Milwaukee Badgers,Milwaukee,220949,71348,1922
+Chicago Stadium,Houston Oilers,Chicago,636616,58790,1932
+Thompsons Stadium,Staten Island Stapletons,Staten Island,444472,67222,1929
+Cycledrome,Providence Steam Roller,Providence,500067,68524,1925
+Loyola Stadium,Washington Redskins,Chicago,698390,45929,1931
+Frankford Stadium,Frankford Yellow Jackets,Philadelphia,115253,79215,1924
+Mills Stadium,Chicago Cardinals,Chicago,474399,42282,1930
+Newark Schools Stadium,Newark Tornadoes,Newark,283672,55144,1930
+Nicollet Park,Minneapolis Marines,Minneapolis,193100,55193,1922
+Velodrome,Newark Tornadoes,Newark,542227,34024,1930
+Bison Stadium,Buffalo Bisons,Buffalo,367904,37267,1924
+Breese Stevens Field,Akron Indians,Madison,617777,30450,1929
+Kinsley Park,Green Bay Packers,Providence,187078,62874,1929
+Knights of Columbus Stadium,Orange Tornadoes,East Orange,391673,31201,1929
+Minersville Park,Pottsville Maroons,Minersville,380383,31891,1925
+Normal Park,Chicago Cardinals,Chicago,342968,46774,1920
+Archbold Stadium,Canton Bulldogs,Syracuse,502172,63861,1927
+Luna Park,Cleveland Bulldogs,Cleveland,401301,78661,1927
+East Hartford Velodrome,Hartford Blues,East Hartford,172019,42571,1926
+General Field,Akron Indians,Akron,346520,39896,1924
+Horlick Legion Field,Racine Legion,Racine,166864,34278,1922
+Lakeside Park,Canton Bulldogs,Canton,141889,77154,1922
+Muehlebach Field,Kansas City Blues,Kansas City,555331,73649,1924
+Turner Field,Hammond Pros,Hammond,681302,36307,1926
+West Side Athletic Club Field,Columbus Tigers,Columbus,305327,40347,1924
+Clarkin Field,Hammond Pros,Hartford,568219,39775,1925
+DePaul Field,Green Bay Packers,Chicago,380206,35693,1925
+Douglas Park,Rock Island Independents,Rock Island,325099,53180,1920
+Duluth Athletic Park,Duluth Eskimos,Duluth,266681,63250,1923
+Bellevue Park,Green Bay Packers,Green Bay,656908,60932,1923
+Edgerton Park,Rochester Jeffersons,Rochester,549398,69365,1922
+Nash Employees Field,Kenosha Maroons,Kenosha,660828,45157,1924
+Armory Park,Toledo Maroons,Toledo,562462,59730,1923
+Buffalo Baseball Park,Buffalo All-Americans,Buffalo,386616,70101,1922
+Neil Park,Columbus Panhandles,Columbus,307438,75809,1922
+Parkway Field,Louisville Brecks,Louisville,108096,64561,1923
+Wooster Avenue Stadium,Akron Pros,Akron,530230,40654,1923
+Hagemeister Park,Green Bay Packers,Green Bay,266086,68262,1921
+Leagues Park,Akron Pros,Akron,495951,67059,1922
+Lincoln Park,Oorang Indians,Marion,486601,64122,1922
+Swayne Field,Toledo Maroons,Toledo,391325,62254,1922
+Bosse Field,Oorang Indians,Evansville,365502,57328,1921
+Staley Field,Buffalo Bills,Decatur,418326,62434,1920

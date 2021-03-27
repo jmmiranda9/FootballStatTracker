@@ -1,0 +1,32 @@
+Arizona Cardinals,Steve Wilks,NFC_West,3,13,0,west
+Atlanta Falcons,Dan Quinn,NFC_South,7,9,0,east
+Baltimore Ravens,John Harbaugh,AFC_North,10,6,0,south
+Buffalo Bills,Sean McDermont,AFC_East,6,10,0,smith
+Carolina Panthers,Ron Rivera,NFC_South,7,9,0,arroyo
+Chicago Bears,Matt Nagy,NFC_North,12,4,0,burns
+Cincinnati Bengals,Marvin Lewis,AFC_North,6,10,0,baby
+Cleveland Browns,Hue Jackson*,AFC_North,7,8,1,rj
+Dallas Cowboys,Jason Garret,NFC_East,10,6,0,kanye
+Denver Broncos,Vance Joseph,AFC_West,6,10,0,bill
+Detroit Lions,Matt Patricia,NFC_North,6,10,0,bob
+Green Bay Packers,Mike McCarthy,NFC_North,6,9,1,steve
+Houston Texans,Bill OBrien,AFC_South,11,5,0,jose
+Indianapolis Colts,Frank Reich,AFC_South,10,6,0,dude
+Jacksonville Jaguars,Doug Marrone,AFC_South,5,11,0,alex
+Kansas City Chiefs,Andy Reid,AFC_West,12,4,0,alper
+Los Angeles Chargers,Anthony Lynn,AFC_West,12,4,0,jobs
+Los Angeles Rams,Sean McVay,NFC_West,13,3,0,abigail
+Miami Dolphins,Adam Gase,AFC_East,7,9,0,kate
+Minnesota Vikings,Mike Zimmer,NFC_North,8,7,1,gaga
+New England Patriots,Bill Belichick,AFC_East,11,5,0,bruno
+New Orleans Saints,Sean Payton,NFC_South,13,3,0,wayne
+New York Giants,Pat Shurmer,NFC_East,5,11,0,sam
+New York Jets,Todd Bowies,AFC_East,4,12,0,sony
+Oakland Raiders,Jon Gruden,AFC_West,4,12,0,ulisis
+Philadelphia Eagles,Doug Pederson,NFC_East,9,7,0,pope
+Pittsburgh Steelers,Mike Tomlin,AFC_North,9,6,1,caldwell
+San Francisco 49ers,Kyle Shanahan,NFC_West,4,12,0,janoris
+Seattle Seahawks,Pete Caroll,NFC_West,10,6,0,beckham
+Tampa Bay Buccaneers,Dirk Koetter,NFC_South,5,11,0,palamalu
+Tennessee Titans,Mike Vrabel,AFC_South,9,7,0,ochocinco
+Washington Redskins,Jay Gruden,NFC_East,7,9,0,chad

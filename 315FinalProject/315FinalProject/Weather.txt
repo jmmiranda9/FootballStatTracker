@@ -1,0 +1,4 @@
+Sunny
+Cold
+Rain
+Snow

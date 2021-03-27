@@ -1,0 +1,31 @@
+Chandler Jones,Arizona Cardinals,151,150000
+Ricardo Allen,Atlanta Falcons,565,2000000
+Jarrad Smith,Baltimore Ravens,342,3000000
+Lorenzo Alexander,Carolina Panthers,234,4000000
+Luke Kuechly,Chicago Bears,234,5000000
+Brian Freeman,Cincinnati Bengals,654,6000000
+Geno Atkins,Cleveland Browns,245,150000
+Christian Kirksey,Dallas Cowboys,245,8000000
+DeMarcus Lawrence,Denver Broncos,135,9000000
+DeMarcus Suh,Detroit Lions,135,10000000
+Jarrad Davis,Green Bay Packers,685,11000000
+ZaDarius Smith,Houston Texans,134,12000000
+Johnathan Joseph,Indianapolis Colts,1349,13000000
+Clayton Geathers,Jacksonville Jaguars,400,150000
+Calais Campbell,Kansas City Chiefs,340,14000000
+Aaron Cambell,Los Angeles Chargers,349,15000000
+Brandon Mebane,Los Angeles Rams,134,16000000
+Aaron Donald,Miami Dolphins,245,17000000
+Bobby McCain,Minnesota Vikings,234,18000000
+Everson Griffen,New England Patriots,343,19000000
+Devin McCourty,New Orleans Saints,444,20000000
+Cameron Jordan,New York Giants,234,7000000
+Alec Ogletree,New York Jets,234,7000000
+Jamal Adams,Oakland Raiders,534,150000
+Vontaze Burfict,Philadelphia Eagles,765,7000000
+Malcolm Jenkins,Pittsburgh Steelers,678,7000000
+Cameron Heyward,San Francisco 49ers,342,21000000
+Richard Sherman,Seattle Seahawks,523,22000000
+Bobby Wagner,Tampa Bay Buccaneers,343,150000
+Lavonte David,Tennessee Titans,100,23000000
+Jurrell Casey,Washington Redskins,169,24000000
